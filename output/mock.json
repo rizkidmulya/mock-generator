@@ -1,0 +1,802 @@
+[
+  {
+    "productName": "Product 1",
+    "initalPrice": 203,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 4,
+    "ageInMonths": 23,
+    "sellingPrice": 162.4
+  },
+  {
+    "productName": "Product 2",
+    "initalPrice": 326,
+    "quality": "BAD",
+    "productLifeSpan": 9,
+    "ageInMonths": 4,
+    "sellingPrice": 65.2
+  },
+  {
+    "productName": "Product 3",
+    "initalPrice": 292,
+    "quality": "BAD",
+    "productLifeSpan": 2,
+    "ageInMonths": 20,
+    "sellingPrice": 58.4
+  },
+  {
+    "productName": "Product 4",
+    "initalPrice": 342,
+    "quality": "GOOD",
+    "productLifeSpan": 6,
+    "ageInMonths": 7,
+    "sellingPrice": 205.2
+  },
+  {
+    "productName": "Product 5",
+    "initalPrice": 355,
+    "quality": "OK",
+    "productLifeSpan": 5,
+    "ageInMonths": 0,
+    "sellingPrice": 142
+  },
+  {
+    "productName": "Product 6",
+    "initalPrice": 481,
+    "quality": "GOOD",
+    "productLifeSpan": 1,
+    "ageInMonths": 5,
+    "sellingPrice": 288.6
+  },
+  {
+    "productName": "Product 7",
+    "initalPrice": 229,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 3,
+    "ageInMonths": 21,
+    "sellingPrice": 183.2
+  },
+  {
+    "productName": "Product 8",
+    "initalPrice": 160,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 2,
+    "ageInMonths": 0,
+    "sellingPrice": 128
+  },
+  {
+    "productName": "Product 9",
+    "initalPrice": 182,
+    "quality": "OK",
+    "productLifeSpan": 3,
+    "ageInMonths": 18,
+    "sellingPrice": 72.8
+  },
+  {
+    "productName": "Product 10",
+    "initalPrice": 424,
+    "quality": "BAD",
+    "productLifeSpan": 6,
+    "ageInMonths": 14,
+    "sellingPrice": 84.8
+  },
+  {
+    "productName": "Product 11",
+    "initalPrice": 451,
+    "quality": "NEW",
+    "productLifeSpan": 4,
+    "ageInMonths": 16,
+    "sellingPrice": 451
+  },
+  {
+    "productName": "Product 12",
+    "initalPrice": 405,
+    "quality": "NEW",
+    "productLifeSpan": 3,
+    "ageInMonths": 18,
+    "sellingPrice": 405
+  },
+  {
+    "productName": "Product 13",
+    "initalPrice": 473,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 5,
+    "ageInMonths": 4,
+    "sellingPrice": 378.4
+  },
+  {
+    "productName": "Product 14",
+    "initalPrice": 251,
+    "quality": "GOOD",
+    "productLifeSpan": 7,
+    "ageInMonths": 0,
+    "sellingPrice": 150.6
+  },
+  {
+    "productName": "Product 15",
+    "initalPrice": 200,
+    "quality": "NEW",
+    "productLifeSpan": 3,
+    "ageInMonths": 1,
+    "sellingPrice": 200
+  },
+  {
+    "productName": "Product 16",
+    "initalPrice": 427,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 7,
+    "ageInMonths": 11,
+    "sellingPrice": 341.6
+  },
+  {
+    "productName": "Product 17",
+    "initalPrice": 314,
+    "quality": "BAD",
+    "productLifeSpan": 4,
+    "ageInMonths": 2,
+    "sellingPrice": 62.8
+  },
+  {
+    "productName": "Product 18",
+    "initalPrice": 314,
+    "quality": "NEW",
+    "productLifeSpan": 7,
+    "ageInMonths": 23,
+    "sellingPrice": 314
+  },
+  {
+    "productName": "Product 19",
+    "initalPrice": 487,
+    "quality": "GOOD",
+    "productLifeSpan": 5,
+    "ageInMonths": 10,
+    "sellingPrice": 292.2
+  },
+  {
+    "productName": "Product 20",
+    "initalPrice": 266,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 9,
+    "ageInMonths": 17,
+    "sellingPrice": 212.8
+  },
+  {
+    "productName": "Product 21",
+    "initalPrice": 391,
+    "quality": "GOOD",
+    "productLifeSpan": 8,
+    "ageInMonths": 10,
+    "sellingPrice": 234.6
+  },
+  {
+    "productName": "Product 22",
+    "initalPrice": 158,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 7,
+    "ageInMonths": 9,
+    "sellingPrice": 126.4
+  },
+  {
+    "productName": "Product 23",
+    "initalPrice": 417,
+    "quality": "GOOD",
+    "productLifeSpan": 4,
+    "ageInMonths": 1,
+    "sellingPrice": 250.2
+  },
+  {
+    "productName": "Product 24",
+    "initalPrice": 335,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 6,
+    "ageInMonths": 4,
+    "sellingPrice": 268
+  },
+  {
+    "productName": "Product 25",
+    "initalPrice": 128,
+    "quality": "BAD",
+    "productLifeSpan": 7,
+    "ageInMonths": 16,
+    "sellingPrice": 25.6
+  },
+  {
+    "productName": "Product 26",
+    "initalPrice": 387,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 7,
+    "ageInMonths": 8,
+    "sellingPrice": 309.6
+  },
+  {
+    "productName": "Product 27",
+    "initalPrice": 336,
+    "quality": "BAD",
+    "productLifeSpan": 5,
+    "ageInMonths": 20,
+    "sellingPrice": 67.2
+  },
+  {
+    "productName": "Product 28",
+    "initalPrice": 431,
+    "quality": "NEW",
+    "productLifeSpan": 9,
+    "ageInMonths": 5,
+    "sellingPrice": 431
+  },
+  {
+    "productName": "Product 29",
+    "initalPrice": 418,
+    "quality": "BAD",
+    "productLifeSpan": 2,
+    "ageInMonths": 10,
+    "sellingPrice": 83.6
+  },
+  {
+    "productName": "Product 30",
+    "initalPrice": 361,
+    "quality": "OK",
+    "productLifeSpan": 9,
+    "ageInMonths": 12,
+    "sellingPrice": 144.4
+  },
+  {
+    "productName": "Product 31",
+    "initalPrice": 393,
+    "quality": "NEW",
+    "productLifeSpan": 5,
+    "ageInMonths": 13,
+    "sellingPrice": 393
+  },
+  {
+    "productName": "Product 32",
+    "initalPrice": 191,
+    "quality": "GOOD",
+    "productLifeSpan": 4,
+    "ageInMonths": 3,
+    "sellingPrice": 114.6
+  },
+  {
+    "productName": "Product 33",
+    "initalPrice": 499,
+    "quality": "NEW",
+    "productLifeSpan": 3,
+    "ageInMonths": 21,
+    "sellingPrice": 499
+  },
+  {
+    "productName": "Product 34",
+    "initalPrice": 483,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 2,
+    "ageInMonths": 22,
+    "sellingPrice": 386.4
+  },
+  {
+    "productName": "Product 35",
+    "initalPrice": 434,
+    "quality": "NEW",
+    "productLifeSpan": 3,
+    "ageInMonths": 16,
+    "sellingPrice": 434
+  },
+  {
+    "productName": "Product 36",
+    "initalPrice": 387,
+    "quality": "BAD",
+    "productLifeSpan": 5,
+    "ageInMonths": 5,
+    "sellingPrice": 77.4
+  },
+  {
+    "productName": "Product 37",
+    "initalPrice": 237,
+    "quality": "NEW",
+    "productLifeSpan": 5,
+    "ageInMonths": 23,
+    "sellingPrice": 237
+  },
+  {
+    "productName": "Product 38",
+    "initalPrice": 440,
+    "quality": "OK",
+    "productLifeSpan": 8,
+    "ageInMonths": 15,
+    "sellingPrice": 176
+  },
+  {
+    "productName": "Product 39",
+    "initalPrice": 199,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 2,
+    "ageInMonths": 9,
+    "sellingPrice": 159.2
+  },
+  {
+    "productName": "Product 40",
+    "initalPrice": 140,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 2,
+    "ageInMonths": 0,
+    "sellingPrice": 112
+  },
+  {
+    "productName": "Product 41",
+    "initalPrice": 296,
+    "quality": "GOOD",
+    "productLifeSpan": 3,
+    "ageInMonths": 16,
+    "sellingPrice": 177.6
+  },
+  {
+    "productName": "Product 42",
+    "initalPrice": 156,
+    "quality": "BAD",
+    "productLifeSpan": 3,
+    "ageInMonths": 23,
+    "sellingPrice": 31.2
+  },
+  {
+    "productName": "Product 43",
+    "initalPrice": 299,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 6,
+    "ageInMonths": 10,
+    "sellingPrice": 239.2
+  },
+  {
+    "productName": "Product 44",
+    "initalPrice": 391,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 3,
+    "ageInMonths": 20,
+    "sellingPrice": 312.8
+  },
+  {
+    "productName": "Product 45",
+    "initalPrice": 354,
+    "quality": "GOOD",
+    "productLifeSpan": 9,
+    "ageInMonths": 16,
+    "sellingPrice": 212.4
+  },
+  {
+    "productName": "Product 46",
+    "initalPrice": 195,
+    "quality": "OK",
+    "productLifeSpan": 3,
+    "ageInMonths": 16,
+    "sellingPrice": 78
+  },
+  {
+    "productName": "Product 47",
+    "initalPrice": 418,
+    "quality": "OK",
+    "productLifeSpan": 1,
+    "ageInMonths": 4,
+    "sellingPrice": 167.2
+  },
+  {
+    "productName": "Product 48",
+    "initalPrice": 454,
+    "quality": "NEW",
+    "productLifeSpan": 1,
+    "ageInMonths": 8,
+    "sellingPrice": 454
+  },
+  {
+    "productName": "Product 49",
+    "initalPrice": 406,
+    "quality": "NEW",
+    "productLifeSpan": 2,
+    "ageInMonths": 6,
+    "sellingPrice": 406
+  },
+  {
+    "productName": "Product 50",
+    "initalPrice": 443,
+    "quality": "GOOD",
+    "productLifeSpan": 8,
+    "ageInMonths": 10,
+    "sellingPrice": 265.8
+  },
+  {
+    "productName": "Product 51",
+    "initalPrice": 441,
+    "quality": "NEW",
+    "productLifeSpan": 7,
+    "ageInMonths": 4,
+    "sellingPrice": 441
+  },
+  {
+    "productName": "Product 52",
+    "initalPrice": 255,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 8,
+    "ageInMonths": 8,
+    "sellingPrice": 204
+  },
+  {
+    "productName": "Product 53",
+    "initalPrice": 171,
+    "quality": "BAD",
+    "productLifeSpan": 6,
+    "ageInMonths": 10,
+    "sellingPrice": 34.2
+  },
+  {
+    "productName": "Product 54",
+    "initalPrice": 419,
+    "quality": "BAD",
+    "productLifeSpan": 5,
+    "ageInMonths": 12,
+    "sellingPrice": 83.8
+  },
+  {
+    "productName": "Product 55",
+    "initalPrice": 236,
+    "quality": "BAD",
+    "productLifeSpan": 6,
+    "ageInMonths": 3,
+    "sellingPrice": 47.2
+  },
+  {
+    "productName": "Product 56",
+    "initalPrice": 145,
+    "quality": "NEW",
+    "productLifeSpan": 3,
+    "ageInMonths": 15,
+    "sellingPrice": 145
+  },
+  {
+    "productName": "Product 57",
+    "initalPrice": 308,
+    "quality": "NEW",
+    "productLifeSpan": 1,
+    "ageInMonths": 9,
+    "sellingPrice": 308
+  },
+  {
+    "productName": "Product 58",
+    "initalPrice": 229,
+    "quality": "GOOD",
+    "productLifeSpan": 1,
+    "ageInMonths": 21,
+    "sellingPrice": 137.4
+  },
+  {
+    "productName": "Product 59",
+    "initalPrice": 462,
+    "quality": "OK",
+    "productLifeSpan": 1,
+    "ageInMonths": 16,
+    "sellingPrice": 184.8
+  },
+  {
+    "productName": "Product 60",
+    "initalPrice": 267,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 1,
+    "ageInMonths": 20,
+    "sellingPrice": 213.6
+  },
+  {
+    "productName": "Product 61",
+    "initalPrice": 320,
+    "quality": "BAD",
+    "productLifeSpan": 4,
+    "ageInMonths": 11,
+    "sellingPrice": 64
+  },
+  {
+    "productName": "Product 62",
+    "initalPrice": 236,
+    "quality": "NEW",
+    "productLifeSpan": 5,
+    "ageInMonths": 19,
+    "sellingPrice": 236
+  },
+  {
+    "productName": "Product 63",
+    "initalPrice": 288,
+    "quality": "BAD",
+    "productLifeSpan": 6,
+    "ageInMonths": 0,
+    "sellingPrice": 57.6
+  },
+  {
+    "productName": "Product 64",
+    "initalPrice": 365,
+    "quality": "NEW",
+    "productLifeSpan": 5,
+    "ageInMonths": 15,
+    "sellingPrice": 365
+  },
+  {
+    "productName": "Product 65",
+    "initalPrice": 179,
+    "quality": "NEW",
+    "productLifeSpan": 2,
+    "ageInMonths": 2,
+    "sellingPrice": 179
+  },
+  {
+    "productName": "Product 66",
+    "initalPrice": 118,
+    "quality": "BAD",
+    "productLifeSpan": 6,
+    "ageInMonths": 15,
+    "sellingPrice": 23.6
+  },
+  {
+    "productName": "Product 67",
+    "initalPrice": 478,
+    "quality": "OK",
+    "productLifeSpan": 6,
+    "ageInMonths": 21,
+    "sellingPrice": 191.2
+  },
+  {
+    "productName": "Product 68",
+    "initalPrice": 395,
+    "quality": "GOOD",
+    "productLifeSpan": 1,
+    "ageInMonths": 2,
+    "sellingPrice": 237
+  },
+  {
+    "productName": "Product 69",
+    "initalPrice": 217,
+    "quality": "NEW",
+    "productLifeSpan": 7,
+    "ageInMonths": 12,
+    "sellingPrice": 217
+  },
+  {
+    "productName": "Product 70",
+    "initalPrice": 218,
+    "quality": "BAD",
+    "productLifeSpan": 3,
+    "ageInMonths": 14,
+    "sellingPrice": 43.6
+  },
+  {
+    "productName": "Product 71",
+    "initalPrice": 397,
+    "quality": "OK",
+    "productLifeSpan": 2,
+    "ageInMonths": 16,
+    "sellingPrice": 158.8
+  },
+  {
+    "productName": "Product 72",
+    "initalPrice": 128,
+    "quality": "NEW",
+    "productLifeSpan": 9,
+    "ageInMonths": 12,
+    "sellingPrice": 128
+  },
+  {
+    "productName": "Product 73",
+    "initalPrice": 437,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 6,
+    "ageInMonths": 15,
+    "sellingPrice": 349.6
+  },
+  {
+    "productName": "Product 74",
+    "initalPrice": 383,
+    "quality": "OK",
+    "productLifeSpan": 3,
+    "ageInMonths": 4,
+    "sellingPrice": 153.2
+  },
+  {
+    "productName": "Product 75",
+    "initalPrice": 295,
+    "quality": "GOOD",
+    "productLifeSpan": 1,
+    "ageInMonths": 10,
+    "sellingPrice": 177
+  },
+  {
+    "productName": "Product 76",
+    "initalPrice": 280,
+    "quality": "OK",
+    "productLifeSpan": 8,
+    "ageInMonths": 18,
+    "sellingPrice": 112
+  },
+  {
+    "productName": "Product 77",
+    "initalPrice": 311,
+    "quality": "NEW",
+    "productLifeSpan": 8,
+    "ageInMonths": 10,
+    "sellingPrice": 311
+  },
+  {
+    "productName": "Product 78",
+    "initalPrice": 162,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 7,
+    "ageInMonths": 12,
+    "sellingPrice": 129.6
+  },
+  {
+    "productName": "Product 79",
+    "initalPrice": 493,
+    "quality": "GOOD",
+    "productLifeSpan": 5,
+    "ageInMonths": 18,
+    "sellingPrice": 295.8
+  },
+  {
+    "productName": "Product 80",
+    "initalPrice": 260,
+    "quality": "NEW",
+    "productLifeSpan": 9,
+    "ageInMonths": 8,
+    "sellingPrice": 260
+  },
+  {
+    "productName": "Product 81",
+    "initalPrice": 142,
+    "quality": "OK",
+    "productLifeSpan": 4,
+    "ageInMonths": 10,
+    "sellingPrice": 56.8
+  },
+  {
+    "productName": "Product 82",
+    "initalPrice": 280,
+    "quality": "GOOD",
+    "productLifeSpan": 4,
+    "ageInMonths": 23,
+    "sellingPrice": 168
+  },
+  {
+    "productName": "Product 83",
+    "initalPrice": 415,
+    "quality": "GOOD",
+    "productLifeSpan": 4,
+    "ageInMonths": 0,
+    "sellingPrice": 249
+  },
+  {
+    "productName": "Product 84",
+    "initalPrice": 233,
+    "quality": "GOOD",
+    "productLifeSpan": 2,
+    "ageInMonths": 19,
+    "sellingPrice": 139.8
+  },
+  {
+    "productName": "Product 85",
+    "initalPrice": 361,
+    "quality": "BAD",
+    "productLifeSpan": 8,
+    "ageInMonths": 11,
+    "sellingPrice": 72.2
+  },
+  {
+    "productName": "Product 86",
+    "initalPrice": 234,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 5,
+    "ageInMonths": 20,
+    "sellingPrice": 187.2
+  },
+  {
+    "productName": "Product 87",
+    "initalPrice": 319,
+    "quality": "GOOD",
+    "productLifeSpan": 6,
+    "ageInMonths": 1,
+    "sellingPrice": 191.4
+  },
+  {
+    "productName": "Product 88",
+    "initalPrice": 239,
+    "quality": "NEW",
+    "productLifeSpan": 6,
+    "ageInMonths": 15,
+    "sellingPrice": 239
+  },
+  {
+    "productName": "Product 89",
+    "initalPrice": 286,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 9,
+    "ageInMonths": 4,
+    "sellingPrice": 228.8
+  },
+  {
+    "productName": "Product 90",
+    "initalPrice": 372,
+    "quality": "GOOD",
+    "productLifeSpan": 1,
+    "ageInMonths": 1,
+    "sellingPrice": 223.2
+  },
+  {
+    "productName": "Product 91",
+    "initalPrice": 315,
+    "quality": "GOOD",
+    "productLifeSpan": 4,
+    "ageInMonths": 17,
+    "sellingPrice": 189
+  },
+  {
+    "productName": "Product 92",
+    "initalPrice": 203,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 2,
+    "ageInMonths": 6,
+    "sellingPrice": 162.4
+  },
+  {
+    "productName": "Product 93",
+    "initalPrice": 252,
+    "quality": "GOOD",
+    "productLifeSpan": 2,
+    "ageInMonths": 4,
+    "sellingPrice": 151.2
+  },
+  {
+    "productName": "Product 94",
+    "initalPrice": 175,
+    "quality": "OK",
+    "productLifeSpan": 3,
+    "ageInMonths": 9,
+    "sellingPrice": 70
+  },
+  {
+    "productName": "Product 95",
+    "initalPrice": 103,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 8,
+    "ageInMonths": 16,
+    "sellingPrice": 82.4
+  },
+  {
+    "productName": "Product 96",
+    "initalPrice": 165,
+    "quality": "OK",
+    "productLifeSpan": 4,
+    "ageInMonths": 18,
+    "sellingPrice": 66
+  },
+  {
+    "productName": "Product 97",
+    "initalPrice": 311,
+    "quality": "NEW",
+    "productLifeSpan": 1,
+    "ageInMonths": 22,
+    "sellingPrice": 311
+  },
+  {
+    "productName": "Product 98",
+    "initalPrice": 429,
+    "quality": "NEW",
+    "productLifeSpan": 5,
+    "ageInMonths": 4,
+    "sellingPrice": 429
+  },
+  {
+    "productName": "Product 99",
+    "initalPrice": 499,
+    "quality": "NEW",
+    "productLifeSpan": 4,
+    "ageInMonths": 0,
+    "sellingPrice": 499
+  },
+  {
+    "productName": "Product 100",
+    "initalPrice": 424,
+    "quality": "VERY GOOD",
+    "productLifeSpan": 9,
+    "ageInMonths": 5,
+    "sellingPrice": 339.2
+  }
+]
