@@ -57,11 +57,16 @@ const generateData = (length = 10, options = {}) => {
       productLifeSpan * MONTHS_IN_YEAR
     );
 
-    const qualityFactor = (qualityIndex + 1) / CONDITIONS.length;
-    const ageFactor = ageInMonths / (MONTHS_IN_YEAR * productLifeSpan);
+    const qualityFactor =
+      ((CONDITIONS.length - qualityIndex) / CONDITIONS.length) *
+      initialPrice *
+      0.5;
+    const ageFactor =
+      (ageInMonths / (MONTHS_IN_YEAR * productLifeSpan)) * initialPrice * 0.5;
 
-    const priceFactor = Math.abs(qualityFactor - ageFactor);
-    const sellingPrice = Number((initialPrice * priceFactor).toFixed(2));
+    const sellingPrice = Number(
+      (initialPrice - (qualityFactor + ageFactor)).toFixed(2)
+    );
 
     const purchased = Math.round(Math.random());
     const rating =
@@ -72,10 +77,6 @@ const generateData = (length = 10, options = {}) => {
       initialPrice,
       quality,
       ageInMonths,
-      productLifeSpan,
-      qualityFactor,
-      ageFactor,
-      priceFactor,
       sellingPrice,
       rating,
       purchased,
@@ -92,5 +93,5 @@ const writeJSON = () => {
   });
 };
 
-generateData(1000);
+generateData(100);
 writeJSON();
