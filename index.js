@@ -76,6 +76,10 @@ const generateData = (length = 10, options = {}) => {
       productName,
       initialPrice,
       quality,
+      qualityIndex: qualityIndex + 1,
+      productLifeSpan,
+      ageFactor,
+      qualityFactor,
       ageInMonths,
       sellingPrice,
       rating,
@@ -93,5 +97,33 @@ const writeJSON = () => {
   });
 };
 
-generateData(100);
-writeJSON();
+const wirteCSV = (data, key) => {
+  let keys = key || Object.keys(data[0]);
+
+  let values = [];
+
+  data.map((x) => {
+    let data = [];
+    keys.map((y) => {
+      data.push(x[y]);
+    });
+    values.push(data);
+  });
+
+  const csv =
+    keys.join(",") +
+    "\n" +
+    values.map((res) => String(res.join(",")) + "\n").join("");
+
+  fs.writeFile("output/mock.csv", csv, (err) => {});
+};
+
+generateData(2000);
+wirteCSV(mocks, [
+  "productName",
+  "initialPrice",
+  "quality",
+  "ageInMonths",
+  "sellingPrice",
+]);
+// writeJSON();
